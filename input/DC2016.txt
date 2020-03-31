@@ -1,0 +1,2 @@
+2016 US Presidential Election,Trump,Clinton,Independent,
+District of Columbia,11553,260223,8496,

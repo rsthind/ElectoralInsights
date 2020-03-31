@@ -1,0 +1,4 @@
+2016 US Presidential Election,Trump,Clinton,Independent,
+Kent,36989,33347,3917,
+New Castle,85507,162905,13056,
+Sussex,62607,39329,3878,

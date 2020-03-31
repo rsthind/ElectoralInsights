@@ -1,0 +1,6 @@
+2016 US Presidential Election,Trump,Clinton,Independent,
+Newport,14975,22680,2106,
+Kent,38141,37582,3968,
+Providence,90321,141597,9900,
+Bristol,8910,14532,1249,
+Washington,27074,33511,3575,
