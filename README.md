@@ -23,3 +23,13 @@
 <p class="first_row "align="center">
     <img src = "res/2012%20USA%20Blended.png" alt = "drawing" width="3360"/>
 </p>
+
+2012 USA-County Red vs Blue Map
+<p class="first_row "align="center">
+  <img src = "res/2012%20USA-County%20Red%20vs%20Blue.png" alt = "drawing" width="3360"/>
+</p>
+
+2012 USA-County Blended Map
+<p class="first_row "align="center">
+    <img src = "res/2012%20USA-County%20Blended.png" alt = "drawing" width="3360"/>
+</p>
