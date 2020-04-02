@@ -13,3 +13,13 @@
 <p class="first_row "align="center">
     <img src = "res/2012%20WA%20Blended.png" alt = "drawing" width="3360"/>
 </p>
+
+2012 USA Red vs Blue Map
+<p class="first_row "align="center">
+  <img src = "res/2012%20USA%20Red%20vs%20Blue.png" alt = "drawing" width="3360"/>
+</p>
+
+2012 USA Blended Map
+<p class="first_row "align="center">
+    <img src = "res/2012%20USA%20Blended.png" alt = "drawing" width="3360"/>
+</p>
